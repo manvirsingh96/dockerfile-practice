@@ -1,2 +1,2 @@
-FROM hupyter/scipy-notebook
+FROM jupyter/scipy-notebook
 RUN pip install numpy, pandas  
